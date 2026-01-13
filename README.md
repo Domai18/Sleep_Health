@@ -32,3 +32,6 @@ This project is shared for academic and portfolio purposes and uses non-propriet
 # Author
 
 Derrick Omai
+
+# Recommendation 
+To optimally view the file, download the html file, then once clicked it will open on your browser.
